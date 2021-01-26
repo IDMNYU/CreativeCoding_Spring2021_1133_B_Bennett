@@ -28,7 +28,7 @@
 </tr>
 <tr>
 	<td valign="top"> 3 </td>
-	<td valign="top"><a href="week_3_detail.md">Feb 11</a><br><br> Control Statements<br>Operators<br>Code Blocks<br>
+	<td valign="top"><a href="week_3_detail.md">Feb 11</a> Control Statements<br>Operators<br>Code Blocks<br>
 	Loops<br> Variable scope <br>
 	</td>
 	<td valign="top"><a href="week_3_detail.md">Feb 16</a><br>DeBugger + Loops (review)<br>Motion<br>Random<br>Functions<br>Print Statements<br>In-Class challenge<br>
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 	<td>5</td>
-	<td valign="top"><a href="week_5_detail.md">March 2</a><br>Functions + passing parameters (review)<br><br>Object Orientated Programming <br>
+	<td valign="top"><a href="week_5_detail.md">March 2</a><br>Functions + passing parameters (review)<br>Object Orientated Programming <br>
 	<td valign="top"><a href="week_5_detail.md">March 5</a><br>
 		Object Orientated Programming <br>Methods<br>Passing Parameters <br>In-class Challenge <br>
 	</td>

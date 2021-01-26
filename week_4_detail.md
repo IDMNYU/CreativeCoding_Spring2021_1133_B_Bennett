@@ -19,10 +19,9 @@
 <tr>
 	<td valign="top">class</td>
 	<td valign="top" width="48%">
-		Matrix Transformations<br>
-	 P5<br>
+	Matrix Transformations<br>
+	P5<br>
 	Functions + passing parameters <br>
-	Arrays<br>
 	Review all readings, videos and concepts: <br>
 	<ol>
 	- Screen graphics + pixels <br>
@@ -31,10 +30,13 @@
 	- Motion <br>
 	- Variables <br>
 	- Functions <br>
+	- Matrix Transformations <br>
    </ol>
 	</td>
 	<!-- day Wed -->
 	<td valign="top" width="48%">
+	Matrix Transformations II<br>
+	Functions and passing parameters <br>
 	 Discuss Sketch 3 <br>
      In-class Challenge <br>
 	</td>
