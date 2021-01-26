@@ -28,7 +28,7 @@
 </tr>
 <tr>
 	<td valign="top"> 3 </td>
-	<td valign="top"><a href="week_3_detail.md">Feb 11</a> Control Statements<br>Operators<br>Code Blocks<br>
+	<td valign="top"><a href="week_3_detail.md">Feb 11</a> <br>Control Statements<br>Operators<br>Code Blocks<br>
 	Loops<br> Variable scope <br>
 	</td>
 	<td valign="top"><a href="week_3_detail.md">Feb 16</a><br>DeBugger + Loops (review)<br>Motion<br>Random<br>Functions<br>Print Statements<br>In-Class challenge<br>
@@ -119,7 +119,8 @@
 	</td>
 </tr>
 <tr><td>EXAM WEEK</td>	
-	<td valign="top">May 13<br><strong>ALL Final Submissions Due by Noon<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by mightnight</a><br>Have a great summer! Stay safe and healthy!<br></strong>
+	<td valign="top">May 13<br><strong>ALL Final Submissions Due by Noon<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by mightnight<br>
+	Letter to the Next Cohort DUE by midnight.</td> </a><td valign="top"> <br>Have a great summer! Stay safe and healthy!<br></strong> 
 	</td>
 <tr>
 </table>
