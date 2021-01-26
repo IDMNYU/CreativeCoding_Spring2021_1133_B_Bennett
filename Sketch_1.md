@@ -6,14 +6,16 @@
 #### Due February 14th 9AM EST  
 #### Submission location TBA
 			
-Come to class on Feb 11 with the sketch started and we will submit it together
+_Come to class on Feb 11 with the sketch started and we will demo how to submit it together in class_
 
 Create a sketch that uses a multitude of shapes, and shapes that are different. Use a variety of colors, both for the shapes and the background. Create a composition or collage with these shapes. I encourage you to be abstract, rather than literal. Yet, in the abstract, there can be some likeness to reality.
 
-Check out the Slides on Slack (resources) for inspiration tips and possibilities
+Check out the Slides on Slack (resources channel) for inspiration tips and possibilities
+
+Recommendations: Do not do this in one sitting. Take breaks. Work on this in several sessions (and not the night before it's due).
 
 
-##### Key aspects:
+#### Key aspects:
 
 * On the https://processing.org/reference/, utilize the listings under: 2D Primitives, Curves, Attributes, Vertex, and Color
 * Use a variety of different shapes, and different sizes
@@ -25,7 +27,7 @@ Check out the Slides on Slack (resources) for inspiration tips and possibilities
 * Your sketch size must be 500 x 500 pixels
 * You may take a “meaty” crop of one of these images and re-create it
 
-##### Tips
+#### Tips:
 
 * [Useful resources for curves (switch tab to playground)](http://yining1023.github.io/p5PlayGround/) 
 * [Tutorial on Curves](https://processing.org/tutorials/curves/)
