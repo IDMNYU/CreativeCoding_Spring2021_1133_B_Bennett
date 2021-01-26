@@ -22,18 +22,20 @@
 	<!-- day Mon -->
 	<td valign="top" width="48%">
 	<strong> Last day to Drop/Add is Feb 10</strong>
-	<li> Variables</li>
-	<li> Scope + Control Statements</li> 
-	<li> Logical Operators </li>
-	<li> comments & println()</li>
+	<li> color, transparency.</li>
+		<li> beginShape(), vertex(), endShape()</li>
+		<li> curves</li>
+		<li>time: millis(), frameCount()</li>
+		<li>interaction: mousePressed(), mouseX, keyPressed()</li>
+		<li>Variables</li>
 	</td>
 	<!-- day WEd -->
 	<td valign="top" width="48%">
-	<strong> Sketch 1 Due Feb 11 </strong><br>
+	<strong> Sketch 1 Due Feb 14 9AM EST </strong><br>
 	How to Submit Homework <br>
+	Variables<br>
+	Comments<br>
 	In-class Challenge <br>
-	Loops <br>
-	Comments <br>
 	</td>
 <!-- homework -->
 <tr>

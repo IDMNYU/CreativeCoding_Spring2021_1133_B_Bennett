@@ -32,16 +32,10 @@
 	<strong>In-Class Exercise</strong>
 	<!-- day Wed -->
 	<td valign="top" width="48%">
-		<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li>
+		<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li> </a>
 		<li> overall structure: setup() and draw(). </li>
 		<li> drawing primitives: line(), ellipse(), rect(), etc </li>
 		<li> graphics state: strokeWeight(), stroke(), fill(), smooth().</li>
-		<li> color, transparency.</li>
-		<li> beginShape(), vertex(), endShape()</li>
-		<li> curves</li>
-		<li>time: millis(), frameCount()</li>
-		<li>interaction: mousePressed(), mouseX, keyPressed()</li>
-		<li>Variables</li>
 	</td>
 <!-- homework -->
 <tr>

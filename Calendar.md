@@ -22,13 +22,14 @@
     <td valign="top"><a href="week_2_detail.md">Feb 9</a><br><strong>Sketch 1 Due February 14th 9AM EST<br>Turning in Assignments<br>
     Note that February 10 is the last day to drop/switch a course <br></strong>
 	Comments<br>
+    println()<br>
 	Variables (Review)<br>
 	In-class Challenge<br></td>
 </tr>
 <tr>
 	<td valign="top"> 3 </td>
 	<td valign="top"><a href="week_3_detail.md">Feb 11</a><br><br> Control Statements<br>Operators<br>Code Blocks<br>
-	Loops<br>
+	Loops<br> Variable scope <br>
 	</td>
 	<td valign="top"><a href="week_3_detail.md">Feb 16</a><br>DeBugger + Loops (review)<br>Motion<br>Random<br>Functions<br>Print Statements<br>In-Class challenge<br>
 	</td>
@@ -40,18 +41,20 @@
 </tr>
 <tr>
 	<td>4</td>
-	<td valign="top"><a href="week_4_detail.md">Feb 23</a><br><strong>
+	<td valign="top"><a href="week_4_detail.md">Feb 23</a><br>
 	Matrix Transformations <br>
-	Intro to P5 <br> </strong>
+	Intro to P5 <br> 
 	</td>
-	<td valign="top"><a href="week_4_detail.md">Feb 25</a><br><strong> Functions + passing parameters<br></strong>
+	<td valign="top"><a href="week_4_detail.md">Feb 25</a><br>Functions + passing parameters<br>
+	Matrix Transformations II<br>
+	In-class Challenge <br>
 	</td>
 </tr>
 <tr>
 	<td>5</td>
-	<td valign="top"><a href="week_5_detail.md">March 2</a><br>Matrix transformations II<br>Object Orientated Programming <br>
+	<td valign="top"><a href="week_5_detail.md">March 2</a><br>Functions + passing parameters (review)<br><br>Object Orientated Programming <br>
 	<td valign="top"><a href="week_5_detail.md">March 5</a><br>
-		Object Orientated Programming <br>Methods<br>Passing Parameters <br>
+		Object Orientated Programming <br>Methods<br>Passing Parameters <br>In-class Challenge <br>
 	</td>
 </tr>
 <tr>
