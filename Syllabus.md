@@ -77,6 +77,10 @@ Week 14 of the semester ONLY:  <br>
 
 • If you are asynchronous, you must schedule 4 meetings with me during my office hours. It is up to you to schedule these. If you cannot meet during my office hours, it is up to you to communicate that to me and to suggest an alternative time.
 
+• If you need to switch to asynchronous mode, please communicate that with me. If you cannot be in a class, but will watch the recording, communicate that with me.
+
+• Participation is not limited to the assignments that you turn in. Participation also includes not only your presence in class, but your questions, feedback and dialog. Do not fall into the trap of being lazy during class and never vocalizing your presence (and never having your camera on). Lean in and be present. If you have a question, someone else does too. You vocalizing your questions helps others to do the same.
+
 • Be professional at all times in your communication and attitude
 
 • Complete all assignments by due date

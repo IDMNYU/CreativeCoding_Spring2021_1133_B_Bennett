@@ -32,6 +32,7 @@
 	<strong>In-Class Exercise</strong>
 	<!-- day Wed -->
 	<td valign="top" width="48%">
+		<li><a href = "https://forms.gle/rASd6cy4SXBnrhte8">Fill out Survey if you have not already done so.</a></li>
 		<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li> </a>
 		<li> overall structure: setup() and draw(). </li>
 		<li> drawing primitives: line(), ellipse(), rect(), etc </li>
