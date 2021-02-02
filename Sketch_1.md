@@ -1,7 +1,7 @@
 # DM-UY 1133-B Creative Coding
 ##### Spring 2021 • Katherine Bennett • Tuesdays & Thursdays • 14:00-15:50pm 
 
-## Sketch 1 Creature
+## Sketch 1 Composition
 
 #### Due February 14th 9AM EST  
 #### Submission location TBA
