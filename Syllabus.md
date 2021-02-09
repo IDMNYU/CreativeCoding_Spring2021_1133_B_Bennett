@@ -4,7 +4,7 @@ Creative Coding Syllabus &amp; Class repo
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
 * [Slack Workspace](http://creativecodin-pps8774.slack.com/)
-* [openProcessing Workspace (where homework is submitted)]()
+* [openProcessing Workspace (where homework is submitted)](https://openprocessing.org/class/67714)
 * **Office Hours: Office Hours: Friday 10am-12pm EST, https://calendly.com/ladyk/office-hours [by appointment](https://calendly.com/ladyk/office-hours)**
 
 
