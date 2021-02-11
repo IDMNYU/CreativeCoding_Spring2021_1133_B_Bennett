@@ -104,7 +104,7 @@ Week 14 of the semester ONLY:  <br>
 • Don’t be afraid to fail. Don’t let your failures determine you. Rise again. Keep moving
 
 ## Attendance
-Attendance is mandatory and will be noted, whether you are synchronous or asynchronous. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. Unexcused absences (without a note from a doctor or agency) will affect your grade. 
+Attendance is mandatory and will be noted, whether you are synchronous or asynchronous, for the entire duration of the class period. If you need to leave or your internet cuts out, you are responsible to watch the class recordings. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential. Unexcused absences (without a note from a doctor or agency) will affect your grade. 
 
 • Two unexcused absences are allowed; After that, your final overall grade for the course will drop by 2.5 points out of 100 for each additional unexcused absences.
 
@@ -183,7 +183,7 @@ A typical week will aim for the following schedule:
 
 ## Important Aspects of this Course
 
-• **Pair programming** is a popular way to learn and to work on projects. Two people share one computer and write code together. For the second half of class, an exercise will be given which will be worked on in pairs. The exercise will be due at the end of the class period and presented to class. On occasions the deadline will be at another point. Yet, the exercise is meant to be worked on together - on one laptop, in one program. 
+• **Pair programming** is a popular way to learn and to work on projects. Two people share one computer and write code together. For the second half of class, an exercise will be given which will be worked on in pairs. The exercise will be due at the end of the class period and presented to class. It is not to be completed individually, nor asynchronously with your partner. On occasions the deadline will be at another point. Yet, the exercise is meant to be worked on together - on one laptop, in one program. If you are asynchronous that day, I will pair you up with another asynchronous student, if there is one. You will have one week to complete the assignment, meaning you have 6 days to find a congruent time to be synchronous for 30 minutes to complete the exercise. The professor will pair you up via Slack direct messages. 
 
 • **Homework projects will be turned in via [OpenProcessing.org](). At times, larger assignments homework projects will be turned in via GitHub. GitHub is a web hosting service that supports Git version control. It is more important than your resume, whether you are an artist, engineer or designer. It’s used largerly for software, but can be used for anything. It’s important to become familar with it, develop good habits. See the assigned reading links for more information.
 • **Time** Time management is everything. You will need it to have reasonable accomplishments in this class. The material is cumulative. The readings are essential. Writing code is the only way to make progress and to fully synthesize the material. It becomes evident quite quickly. Develop excellent time management. You will need 8-12 hours outside of class to succeed.
