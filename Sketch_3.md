@@ -44,5 +44,5 @@ Previous Students:
 - [Kevin Xiang](https://openprocessing.org/sketch/976791)
 
 Professional Artists:
- [Lia](http://www.liaworks.com/category/theprojects/)
- [Eno Henze](http://enohenze.de/)
+ - [Lia](http://www.liaworks.com/category/theprojects/)
+ - [Eno Henze](http://enohenze.de/)
