@@ -17,7 +17,7 @@
 
  How you structure your for-loops (calling this stamp), will control how that pattern is made.
 
- You are to create 5 DRASTICALLY different grid-like patterns. *Start with creating one grid. Then in subsequent (and different patterns), manipulate that grid so that it is less grid-like.* _How can you start to deviate from a grid? How can that grid be transformed into a cone? Or strips? Can you skip every other one?_
+ You are to create 5 DRASTICALLY different grid-like patterns. <strong>Start with creating one grid. Then in subsequent (and different patterns), manipulate that grid so that it is less grid-like.</strong> _How can you start to deviate from a grid? How can that grid be transformed into a cone? Or strips? Can you skip every other one?_
 
  Variables, loops, and exit conditions are your key. Play and experiment here. Try different things out. Play with your operators in your for-loop (+, -, *, /), as well as how much you are operating by (ie, +1, -2, /.5, *5.5). 
 
