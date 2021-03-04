@@ -50,13 +50,17 @@
   <td valign = "top">do</td>
 	<!-- day Tues -->
  	<td valign = "top"> 
- 		<a href = "Project_1.md"> Work on Project 1 </a> <br>
- 		Push your progress to your GitHub repo 
+ 		<a href = "Project_1.md"> <strike> Work on Project 1 </strike></a> <br>
+ 		<strike> Push your progress to your GitHub repo </strike>
+    <a href = "Sketch_2.md"> Revise your Sketch 2 </a>
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-		<a href = "Project_1.md"> Work on Project 1 </a> <br>
-		Push your progress to your GitHub 
+		<strike><a href = "Project_1.md"> Work on Project 1 </a> <br> </strike>
+		<strike> Push your progress to your GitHub </strike>
+    <a href = "Sketch_2.md"> Revise your Sketch 2 </a>
+    <a href = "Sketch_3.md"> Sketch 3 </a>
+    Brain storm an adjective for your Midterm project. Come to class on Tuesday with it. If you want to get working on it, sketch it out visually.
   	</td> 	
 </tr>
 </table>
