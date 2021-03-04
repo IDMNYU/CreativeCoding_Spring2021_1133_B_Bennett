@@ -6,6 +6,7 @@
 ### Interactive Repetition & Drawing: Modularity, Pattern
 
 #### Due Feb 26 9:00 pm/21:00 EST
+#### Re-submits due Sunday Feb 7th 9:00 AM
         
 
  Using 1 small line or small simple shape (ellipse), twist or turn it and position it within space. Repeat this process, changing the orientation and position, yet keeping it close to the previous shape. Repeat this process at least 3-5 more times. By the end, you should a clustered arrangement of similar shapes. Wrap this into a code block: either a for-loop or a simple function for-loop combo.
@@ -16,7 +17,7 @@
 
  How you structure your for-loops (calling this stamp), will control how that pattern is made.
 
- You are to create 5 DRASTICALLY different grid-like patterns. Start with creating one grid. Then in subsequent (and different patterns), manipulate that grid so that it is less grid-like. How can you start to deviate from a grid? How can that grid be transformed into a cone? Or strips? Can you skip every other one? 
+ You are to create 5 DRASTICALLY different grid-like patterns. *Start with creating one grid. Then in subsequent (and different patterns), manipulate that grid so that it is less grid-like.* _How can you start to deviate from a grid? How can that grid be transformed into a cone? Or strips? Can you skip every other one?_
 
  Variables, loops, and exit conditions are your key. Play and experiment here. Try different things out. Play with your operators in your for-loop (+, -, *, /), as well as how much you are operating by (ie, +1, -2, /.5, *5.5). 
 
