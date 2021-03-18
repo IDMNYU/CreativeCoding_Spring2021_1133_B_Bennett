@@ -4,7 +4,7 @@
 
 ## Project 1 - The Unexpected Machine: Performance Adjective
 
-**Due March 23 --> In class critiques**
+**Due March 25 --> In class critiques**
 
 **20% of your final grade**
 
