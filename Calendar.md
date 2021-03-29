@@ -98,7 +98,7 @@
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">April 20<br><br> <strong>Final Project: Working ROUGH Prototype Due <br>
+	<td valign="top">April 20<br><br> 
 	<br>Topics by request<br></strong>
 	</td>
 	<td valign="top">April 22<br><strong>Sound<br>Topics by request<br></strong>
