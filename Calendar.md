@@ -93,7 +93,7 @@
 	<td>11</td>
 	<td valign="top">April 13<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>	
 	</td>
-	<td valign="top">April 15<br><strong> Roundtable for Final Projects</a></strong> 
+	<td valign="top">April 15<br><strong><a href = "RoundTable.md">  Roundtable for Final Projects</a></strong> <br> Text & String Manipulations<br>
 	</td>
 </tr>
 <tr>
