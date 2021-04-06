@@ -76,37 +76,37 @@
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">March 30</a><br>Images + Pixel Manipulations <br>
+	<td valign="top"><a href="week_9_detail.md">March 30</a><del><br>Images + Pixel Manipulations <br></del> Vectors <br>
 		<a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
-	<td valign="top"><a href="week_9_detail.md">April 1</a><br>Text & String Manipulations	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">April 1</a><del><br>Text & String Manipulations	</del> Vectors<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"> April 6<br><Data><br><a href = "RoundTable.md"> Roundtable for Final Projects</a> <br>
+	<td valign="top"> April 6<br>Data<br>Images + Pixel Manipulations <br>
 	</td>
-	<td valign="top">April 8<br><Data><br><strong><a href = "RoundTable.md">Roundtable for Final Projects 	</a> </strong>
+	<td valign="top">April 8<br>Data<br>Text & String Manipulations	
 	</td>	
 </tr>
 <tr>
 	<td>11</td>
-	<td valign="top">April 13<br>Working with API's<br> Roundtable Picks<br>	
+	<td valign="top">April 13<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>	
 	</td>
-	<td valign="top">April 15<br>Roundtable Picks<br>
+	<td valign="top">April 15<br><strong> Roundtable for Final Projects</a></strong> 
 	</td>
 </tr>
 <tr>
 	<td>12</td>
 	<td valign="top">April 20<br><br> 
-	<br>Topics by request<br></strong>
+	<br>Strings + API's<br></strong>
 	</td>
-	<td valign="top">April 22<br><strong>Sound<br>Topics by request<br></strong>
+	<td valign="top">April 22<br><strong>Sound<br>P5 Play Library<br>Topics by request<br></strong>
 	</td>
 </tr>
 <tr>	
 	<td>13</td><td valign="top">April 27<br><strong>
-	Final Project: Beta Version Due <br>In-class critique <br></strong>	
+	Final Project: Beta Version Due <br>In-class feedback <br></strong>	
 	</td>
 	<td valign="top">April 29<br><strong>
 		Code-swap + Bug Squashing <br>
