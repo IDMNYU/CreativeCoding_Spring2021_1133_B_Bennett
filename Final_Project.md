@@ -7,7 +7,7 @@
 
 ## Dates: 
 
-### Working Prototype Due: April 20th - feedback
+### <strike> Working Prototype Due: April 20th - feedback </strike>
 ### Beta Version Due: April 27th - feedback
 ### Alpha Version Due: May 4th in class presentations
 
