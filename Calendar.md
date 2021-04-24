@@ -106,7 +106,7 @@
 </tr>
 <tr>	
 	<td>13</td><td valign="top">April 27<br><strong>
-	Final Project: Beta Version Due <br>In-class feedback <br></strong>	
+	Final Project: In-class feedback <br></strong>	
 	</td>
 	<td valign="top">April 29<br><strong>
 		Code-swap + Bug Squashing <br>
