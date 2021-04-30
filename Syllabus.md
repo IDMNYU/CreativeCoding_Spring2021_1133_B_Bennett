@@ -5,7 +5,7 @@ Creative Coding Syllabus &amp; Class repo
 * **Email: Katherine.Bennett@nyu.edu** 
 * [Slack Workspace](http://creativecodin-pps8774.slack.com/)
 * [openProcessing Workspace (where homework is submitted)](https://openprocessing.org/class/67714)
-* **Office Hours: Office Hours: Friday 10am-12pm EST, https://calendly.com/ladyk/office-hours [by appointment](https://calendly.com/ladyk/office-hours)**
+* **Office Hours: Office Hours: Friday 10am-12pm EST, <strike> https://calendly.com/ladyk/office-hours [by appointment](https://calendly.com/ladyk/office-hours)** </strike> Message me in Slack on Friday Morning and I'll send a Zoom link. First Come, First Serve.
 
 
 
